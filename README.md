@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoEz9 / Anton
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning JavaScript(MERN), C#.NET, PHP
 - 📫 How to reach me antonhogstrom1994@gmail.com
